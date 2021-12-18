@@ -1,0 +1,10 @@
+ldap://192.168.0.28:1389/aafo6i
+ldap://192.168.0.28:1389/wrfcc8
+ldap://192.168.0.28:1389/hxyjvf
+ldap://192.168.0.28:1389/8abvdr
+ldap://192.168.0.28:1389/n79246
+ldap://192.168.0.28:1389/frmicp
+ldap://192.168.0.28:1389/ma87tv
+ldap://192.168.0.28:1389/6nsusp
+ldap://thisisahostname.c6xs2n22vtc000084kyggdqhtkwyyyyyb.interact.sh/test
+ldap://thisisahostname.c6xs2n22vtc000084kyggdqhtkwyyyyyb.interact.sh/
